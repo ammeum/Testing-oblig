@@ -1,0 +1,78 @@
+"questions": [
+    {
+      "title": "Hva sier kua?",
+      "answers": [
+        { "answer": "Nøff" },
+        {
+          "answer": "Bæ"
+        },
+        {
+          "answer": "Voff"
+        },
+        {
+          "answer": "Mø",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Kua sier ikke voff"
+      }
+    }
+    {
+        "title": "Hva er hovedstaden i Tyrkia?",
+        "answers": [
+          { "answer": "Izmir" },
+          {
+            "answer": "Istanbul"
+          },
+          {
+            "answer": "Bursa"
+          },
+          {
+            "answer": "Ankara",
+            "correct": true
+          }
+        ],
+        "helper": {
+          "text": "Hovedstaden begynner på A"
+        }
+      }
+      {
+        "title": "Hva liker Ole Brumm å spise?",
+        "answers": [
+          { "answer": "Nøtter" },
+          {
+            "answer": "Bær"
+          },
+          {
+            "answer": "Vafler"
+          },
+          {
+            "answer": "Honning",
+            "correct": true
+          }
+        ],
+        "helper": {
+          "text": "Favorittmaten kommer fra biene"
+        }
+      }
+      {
+        "title": "Hvem studentassistent er best?",
+        "answers": [
+          { "answer": "Tore" },
+          {
+            "answer": "Joakim"
+          },
+          {
+            "answer": "Doffen"
+          },
+          {
+            "answer": "Tommy",
+            "correct": true
+          }
+        ],
+        "helper": {
+          "text": "Aloha! ☀️🌴"
+        }
+      }
+  ]
